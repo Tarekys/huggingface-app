@@ -8,7 +8,7 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 
 ## Text-Based Application ##
 
-|--------|-------|----------|----------|
+
 |Building Chatbot Using HuggingFace Open Source Models| 
 |Building Text Summarization Using HuggingFace Open Source Models Arabic & English | 
 |Building Text Translation System using Meta NLLB Open-Source Model| 
@@ -18,7 +18,7 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 
 ## Speech-Based Application ## 
 
-|--------|-------|----------|----------|
+
 |Zero-Shot Audio Classification Using HuggingFace CLAP Open-Source Model ||
 |Building & Deploying a Speech Recognition System Using the Whisper Model & Gradio  |
 |Building Text-to-Speech Systems Using VITS & ArTST Models | |
