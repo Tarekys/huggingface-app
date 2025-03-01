@@ -7,24 +7,24 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 
 
 ## Text-Based Application ##
-|Topic |Blog |Kaggle Notebook| Youtube Video|
+
 |--------|-------|----------|----------|
 |Building Chatbot Using HuggingFace Open Source Models| 
 |Building Text Summarization Using HuggingFace Open Source Models Arabic & English | 
 |Building Text Translation System using Meta NLLB Open-Source Model| 
 
 |--------|-------|----------|----------|
-|--------|-------|----------|----------|
+
 
 ## Speech-Based Application ## 
-|Topic |Blog |Kaggle Notebook| Youtube Video|
+
 |--------|-------|----------|----------|
 |Zero-Shot Audio Classification Using HuggingFace CLAP Open-Source Model ||
 |Building & Deploying a Speech Recognition System Using the Whisper Model & Gradio  |
 |Building Text-to-Speech Systems Using VITS & ArTST Models | |
 
 ## Image Based Applications ## 
-|Topic |Blog |Kaggle Notebook| Youtube Video|
+
 |--------|-------|----------|----------|
 |Step-by-Step Guide to Zero-Shot Image Classification using CLIP Model | 
 |Building an Object Detection Assitant Application: A Step-by-Step Guide |
@@ -32,7 +32,7 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 |Building Zero Shot Depth Estimation Application Using DPT Model & Gradio| 
 
 ## Vision Language Applications ##
-|Topic |Blog |Kaggle Notebook| Youtube Video|
+
 |--------|-------|----------|----------|
 |Building Visual Questioning Answering System Using Hugging Face Open-Source Models |  
 |Building Image Captioning System using SalesForce Blip Model |
