@@ -7,8 +7,8 @@ Hands-On tutorials building zero shot AI Applications with Hugging Face Open Sou
 
 
 ## Text-Based Application ##
-
-
+|Topic|
+|--------|
 |Building Chatbot Using HuggingFace Open Source Models| 
 |Building Text Summarization Using HuggingFace Open Source Models Arabic & English | 
 |Building Text Translation System using Meta NLLB Open-Source Model| 
