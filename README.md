@@ -1,7 +1,7 @@
 # Building-AI-Applications-with-Hugging-Face
 AI applications using Hugging face pipeline -simple app
 
-##1. Text Based Application ##
+## 1. Text Based Application ##
 |Topic|
 |--------|
 |Building Chatbot Using HuggingFace Open Source Models| 
@@ -10,7 +10,7 @@ AI applications using Hugging face pipeline -simple app
 
 
 
-##2. Speech Based Application ## 
+## 2. Speech Based Application ## 
 
 |Topic|
 |--------|
@@ -18,14 +18,14 @@ AI applications using Hugging face pipeline -simple app
 |Building a Speech Recognition System Using the Whisper Model & Gradio  |
 |Building Text-to-Speech Systems Using VITS & ArTST Models | 
 
-##3. Image Based Applications ## 
+## 3. Image Based Applications ## 
 |Topic|
 |--------|
 |Zero-Shot Image Classification using CLIP Model | 
 |Building an Object Detection Assitant Application |
 |Image Segmentation using Segment Anything Model (SAM) | 
 
-##4. Vision Language Applications ##
+## 4. Vision Language Applications ##
 
 |Topic|
 |--------|
