@@ -1,6 +1,9 @@
 # Building-AI-Applications-with-Hugging-Face
 AI applications using Hugging face pipeline -simple app
 
+![image](https://github.com/user-attachments/assets/eed2c1ca-4b81-4293-b317-532700e60a8a)
+
+
 ## 1. Text Based Application ##
 |Topic|
 |--------|
