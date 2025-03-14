@@ -35,3 +35,12 @@ AI applications using Hugging face pipeline -simple app
 |Building Visual Questioning Answering System Using Hugging Face Open-Source Models |  
 |Building Image Captioning System using SalesForce Blip Model |
 |Building Image-to-Text Matching System Using Hugging Face Open-Source Models 
+
+
+## 5. Application Deployment ##
+
+|Topic|
+|--------|
+|Deploying Machine Learning Models on Hugging Face Hub with Gradio Integration |  
+
+
