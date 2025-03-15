@@ -17,15 +17,15 @@ AI applications using Hugging face pipeline -simple app
 
 |Topic|
 |--------|
-| Audio Classification Using HuggingFace CLAP Model ||
+| Audio Classification Using HuggingFace CLAP Model |
 |Building a Speech Recognition System Using the Whisper Model & Gradio  |
 |Building Text-to-Speech Systems Using VITS & ArTST Models | 
 
 ## 3. Image Based Applications ## 
 |Topic|
 |--------|
-|Zero-Shot Image Classification using CLIP Model | 
 |Building an Object Detection Assitant Application |
+|Zero-Shot Image Classification using CLIP Model | 
 |Image Segmentation using Segment Anything Model (SAM) | 
 
 ## 4. Vision Language Applications ##
