@@ -27,7 +27,6 @@ AI applications using Hugging face pipeline -simple app
 |Topic|
 |--------|
 |Building an Object Detection Assitant Application and deployment using Gradio|
-|Zero-Shot Image Classification using CLIP Model | 
 |Image Segmentation using Segment Anything Model (SAM) | 
 
 ## 4. Vision Language Applications ##
