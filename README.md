@@ -38,10 +38,4 @@ AI applications using Hugging face pipeline -simple app
 |Generating Images from Text with Stable Diffusion Model |
 
 
-## 5. Application Deployment ##
-
-|Topic|
-|--------|
-|Deploying Machine Learning Models on Hugging Face Hub with Gradio Integration |  
-
 
