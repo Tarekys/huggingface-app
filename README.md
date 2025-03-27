@@ -35,8 +35,9 @@ AI applications using Hugging face pipeline -simple app
 |Topic|
 |--------|
 |Visual Questioning Answering System Using Hugging Face Open-Source Models |  
-|Image-to-Text Matching System Using Hugging Face Open-Source Models |
 | Image Captioning Application |
+|Image-to-Text Matching System Using Hugging Face Open-Source Models |
+
 
 ## 5. Application Deployment ##
 
