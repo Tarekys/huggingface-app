@@ -29,13 +29,3 @@ AI applications using Hugging face pipeline -simple app
 |Building an Object Detection Assitant Application and deployment using Gradio|
 |Image Segmentation using Segment Anything Model (SAM) | 
 
-## 4. Vision Language Applications ##
-
-|Topic|
-|--------|
-|Visual Questioning Answering System Using Hugging Face Open-Source Models |  
-| Image Captioning Application |
-|Generating Images from Text with Stable Diffusion Model |
-
-
-
